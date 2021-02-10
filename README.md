@@ -5,12 +5,12 @@ This repository contains the tasks that I completed while working as an intern f
 ## Task-1 : Prediction using Supervised ML
 Predict the percentage of marks of an student based on the number of study hours.
 This is a simple linear regression task as it involves just 2 variables.
-What will be predicted score if a student studies for 9.25 hrs/ day? Data can be found at http://bit.ly/w
+What will be predicted score if a student studies for 9.25 hrs/ day? Data can be found at http://bit.ly/w-data
 
 
 
 ## Task-2 : Prediction using Unsupervised ML 
-From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. Data can be found at https://bit.ly/3cGyP8j
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually. Data can be found at https://bit.ly/3kXTdox
 
 
 ## Task-3 : Exploratory Data Analysis - Retail
